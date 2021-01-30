@@ -49,15 +49,3 @@ plt.show()
 #grid ve nokta ekleyelim, saydamligi degistirelim.bu parametreleri koymasak da olurdu.
 dataFrame1.plot(grid=True,linestyle=':',alpha=0.8)
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
